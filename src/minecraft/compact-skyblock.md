@@ -3,9 +3,7 @@ Skyblock is a style/mode of minecraft. It's one of the oldest and the most popul
 
 ## Problem
 
-
 Usally players spend a lot of their time to build and scale their farms which I believe that's wasting of time. Actually I have never made a cactus farm greater than 4x4 but using Worldedit plugin ;).
----
 
 ## Solution
 
